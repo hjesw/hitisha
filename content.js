@@ -31,7 +31,7 @@ window.SITE = {
   contact: {
     instagram: "https://www.instagram.com/_hitishaa_/",
     instagramHandle: "@_hitishaa_",
-    linkedin: "https://www.linkedin.com/in/hitisha-jeswani-11878237b",
+    linkedin: "https://www.linkedin.com/in/hitisha-jeswani",
     github: "https://github.com/hjesw",     // TODO: GitHub profile URL
     email: "hitisha.2502051844@muj.manipal.edu",
     phone: "+91 88159 35161",
